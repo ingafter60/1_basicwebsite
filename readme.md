@@ -58,3 +58,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## 007 Added Layout, Partial, Routes & Views
 1. Create layout, partial, routes, Home, About, and Contact pages
+
+
+## 008 Compiling Assets
+1. Install dependencies (npm install)
+2. Use webpack.mix to test css
+3. Add content to Home, About and Contact pages
+4. Use conditional (if, elseif, and if) to display jumbotron to each page
+5. Add links to navigation to navigate the pages
