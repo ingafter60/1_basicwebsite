@@ -53,5 +53,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Building Basic Website Using Laravel 5.4.21
 
-## Install and Create Laravel Project
+## 1. Install and Create Laravel Project
 1. Create laravel project: basicwebsite
