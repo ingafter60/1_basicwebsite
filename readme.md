@@ -55,3 +55,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## 1. Install and Create Laravel Project
 1. Create laravel project: basicwebsite
+
+## 007 Added Layout, Partial, Routes & Views
+1. Create layout, partial, routes, Home, About, and Contact pages
