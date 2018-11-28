@@ -50,3 +50,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Building Basic Website Using Laravel 5.4.21
+
+## Install and Create Laravel Project
+1. Create laravel project: basicwebsite
