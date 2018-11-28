@@ -79,3 +79,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    add conditional to display messages
 3. Include messages.blade.php to main.app
 4. Test it out :)   
+
+## 011 Model_ Database & Migrations
+1. Create database and add db credentials to .env
+2. Create model Message and migrate it (php artisan make:model Message -m)
+3. Add columns to table messages
+4. Run migration (Error)
+5. Change the db spesification
+6. Run migration
+7. Use Massage model to save message to db
+8. Add flash message 
+9. Test it out :)
