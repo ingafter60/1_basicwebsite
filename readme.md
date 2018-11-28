@@ -66,3 +66,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3. Add content to Home, About and Contact pages
 4. Use conditional (if, elseif, and if) to display jumbotron to each page
 5. Add links to navigation to navigate the pages
+
+## 009 Forms With Laravel Collective
+1. Install laravelcollective
+2. Adds laravelcollective files to config/app
+3. Adds contact form to contact page
+4. Adds route for submiting contact form
+6. Result error: Class App\Http\Controllers\ MessageController does not exist
