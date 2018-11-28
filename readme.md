@@ -90,3 +90,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 7. Use Massage model to save message to db
 8. Add flash message 
 9. Test it out :)
+
+## 012 Pulling Data From The Database
+1. Create a new getMessages function in MessagesController and
+   add session success flash
+2. Create a new page displayMessages.blade.php to display all messages
+3. Create a new PagesController and add functions for Home, About
+   and Contact pages
+4. Modify the routes      
