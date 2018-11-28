@@ -59,7 +59,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## 007 Added Layout, Partial, Routes & Views
 1. Create layout, partial, routes, Home, About, and Contact pages
 
-
 ## 008 Compiling Assets
 1. Install dependencies (npm install)
 2. Use webpack.mix to test css
@@ -73,3 +72,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3. Adds contact form to contact page
 4. Adds route for submiting contact form
 6. Result error: Class App\Http\Controllers\ MessageController does not exist
+
+## 010 Controllers & Validation
+1. Create MessagesController
+2. Create a new partials file: messages.blade.php and
+   add conditional to display messages
+3. Include messages.blade.php to main.app
+4. Test it out :)   
